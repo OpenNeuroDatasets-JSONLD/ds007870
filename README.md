@@ -1,6 +1,6 @@
 # Appleseed MEG Dataset (BIDS Format)
 
-%To-DO: Analytical envelope of the pickle like "1-envelope.pickle". Add contact info. 
+%To-DO: Analytical envelope of the pickle like "1-envelope.pickle". Add contact info. Fix the dataset tree structure in the Readme text. 
  
 
 ## References
