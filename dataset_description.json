@@ -36,5 +36,5 @@
         "MRI data are not subject-specific anatomical scans but are derived from the fsaverage template using subject-specific scaling parameters",
         "Original audio files are copyrighted and cannot be shared"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007870.v1.0.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds007870.v1.1.0"
 }
