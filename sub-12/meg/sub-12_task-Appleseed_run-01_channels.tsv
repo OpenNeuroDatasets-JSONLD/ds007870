@@ -1,4 +1,4 @@
-﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
 MEG 001	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 002	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 003	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
@@ -14,7 +14,7 @@ MEG 012	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 013	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 014	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 015	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
-MEG 016	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 016	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	bad	n/a
 MEG 017	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 018	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 019	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
@@ -28,7 +28,7 @@ MEG 026	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 027	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 028	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 029	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
-MEG 030	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 030	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	bad	n/a
 MEG 031	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 032	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 033	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
@@ -54,7 +54,7 @@ MEG 052	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 053	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 054	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 055	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
-MEG 056	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 056	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	bad	n/a
 MEG 057	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 058	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 059	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
@@ -65,7 +65,7 @@ MEG 063	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 064	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 065	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 066	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
-MEG 067	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 067	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	bad	n/a
 MEG 068	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 069	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 070	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
@@ -116,7 +116,7 @@ MEG 114	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 115	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 116	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 117	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
-MEG 118	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 118	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	bad	n/a
 MEG 119	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 120	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 121	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
