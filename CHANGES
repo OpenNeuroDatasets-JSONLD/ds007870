@@ -1,3 +1,5 @@
+1.1.1 2026-07-01
+  - fixed channels.tsv files to properly show good and bad channels
 1.1.0 2026-06-24
   - fixed events.tsv for sub-11
 1.0.1 2026-06-22
