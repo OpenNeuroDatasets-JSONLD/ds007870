@@ -1,3 +1,5 @@
+1.2.1 2026-07-09
+  - fixed some events.tsv files that didn't have zero duration for offset
 1.2.0 2026-07-09
   - added stimuli, updated gammatone files in predictor, changed directory structure of derivatives, renamed meg files to remove "run" tag from them
 1.1.1 2026-07-01
