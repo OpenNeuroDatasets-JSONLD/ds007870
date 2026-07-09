@@ -1,0 +1,10 @@
+1.2.0 2026-07-09
+  - added stimuli, updated gammatone files in predictor, changed directory structure of derivatives, renamed meg files to remove "run" tag from them
+1.1.1 2026-07-01
+  - fixed channels.tsv files to properly show good and bad channels
+1.1.0 2026-06-24
+  - fixed events.tsv for sub-11
+1.0.1 2026-06-22
+  - updated events.tsv for sub-04, sub-05 and sub-11
+1.0.0 2026-06-19
+  - Uploaded data. Updated events.tsv with stimulus number and stimulus length
