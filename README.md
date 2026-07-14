@@ -35,7 +35,7 @@ BIDS/
 ├── participants.json
 ├── stimuli/
 │   ├── *-gammatone.pickle
-│   └── segment_*.TextGrid
+│   └── *.TextGrid
 ├── sub-01/
 │   └── meg/
 ├── sub-02/
