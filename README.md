@@ -1,7 +1,5 @@
 ﻿# Appleseed MEG Dataset (BIDS)
 
-% To-Do: Add contact info
-
 This dataset contains the Appleseed MEG data in Brain Imaging Data Structure (BIDS) standard formnat. It includes MEG recordings from 12 participants listening to continuous narrative speech, plus an empty-room recording, along with stimulus files and derivative outputs. 
 
 ## Dataset summary
@@ -69,3 +67,7 @@ Each subject folder contains a MEG data directory with BIDS-compliant files such
 
 MEG data are stored in FIFF format and can be opened with MNE-Python. The BIDS metadata files describe the recording structure, events, channels, and task definitions for each subject.
 
+
+## Correspondance
+
+Please contact Dr. Christian Brodbeck at brodbecc@mcmaster.ca for any further details or questions.
