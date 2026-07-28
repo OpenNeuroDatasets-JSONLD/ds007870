@@ -1,3 +1,5 @@
+1.2.3 2026-07-28
+  - filled empty  space in events.tsv with n/a
 1.2.2 2026-07-13
   - Deleted fsaverage files from derivatives. Renamed textgrid stimulus, meg trans files and mri_scaling config files for consistency
 1.2.1 2026-07-09
