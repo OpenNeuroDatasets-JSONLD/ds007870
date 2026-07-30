@@ -34,7 +34,7 @@
     "Notes": [
         "Subjects sub-04 and sub-05 heard stimulus 11b instead of stimulus 11",
         "MRI data are not subject-specific anatomical scans but are derived from the fsaverage template using subject-specific scaling parameters",
-        "Original audio files are copyrighted and cannot be shared"
+        "Original audio files are copyrighted and cannot be shared",
         "All subjects except sub-11 were right handed, sub-11 was left handed"
     ]
 }
