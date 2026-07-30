@@ -3,7 +3,7 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "License": "CC0",
-    "Authors": [
+        "Authors": [
         "Brodbeck, Christian",
         "Bhattasali, Shohini",
         "Cruz Heredia, Aura AL",
@@ -11,14 +11,14 @@
         "Simon, Jonathan Z",
         "Lau, Ellen"
     ],
+
+    "License": "CC0",
     "Acknowledgements": "Funding and support for this research",
     "HowToAcknowledge": "Please cite this paper: Christian Brodbeck, Shohini Bhattasali, Aura AL Cruz Heredia, Philip Resnik, Jonathan Z Simon, Ellen Lau (2022). Parallel processing in speech perception with local and global representations of linguistic context. eLife, 11, e72056. https://doi.org/10.7554/elife.72056",
     "Funding": [
         "NIH"
     ],
-    "EthicsApprovals": [
-        "The study was approved by the IRB of the University of Maryland under the protocol titled 'MEG Studies of Speech and Language Processing' (reference # 01153), on August 22, 2018 and September 9, 2019 (approval duration: 1 year). All participants provided written informed consent prior to the start of the experiment."
-    ],
+    "EthicsApprovals": ["The study was approved by the IRB of the University of Maryland under the protocol titled 'MEG Studies of Speech and Language Processing' (reference # 01153), on August 22, 2018 and September 9, 2019 (approval duration: 1 year). All participants provided written informed consent prior to the start of the experiment."],
     "ReferencesAndLinks": [
         "Christian Brodbeck, Shohini Bhattasali, Aura AL Cruz Heredia, Philip Resnik, Jonathan Z Simon, Ellen Lau (2022). Parallel processing in speech perception with local and global representations of linguistic context. eLife, 11, e72056. https://doi.org/10.7554/elife.72056"
     ],
@@ -35,6 +35,6 @@
         "Subjects sub-04 and sub-05 heard stimulus 11b instead of stimulus 11",
         "MRI data are not subject-specific anatomical scans but are derived from the fsaverage template using subject-specific scaling parameters",
         "Original audio files are copyrighted and cannot be shared"
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007870.v1.2.3"
+        "All subjects except sub-11 were right handed, sub-11 was left handed"
+    ]
 }
