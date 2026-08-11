@@ -1,3 +1,5 @@
+1.2.5 2026-08-11
+  - added gammatone-1000hz pickle files to stimulus
 1.2.4 2026-07-30
   - update participants.tsv to show handedness of participants, updated events.tsv files; converted the float values in stimulus column to integers. 
 1.2.3 2026-07-28
