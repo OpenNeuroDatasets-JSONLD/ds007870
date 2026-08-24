@@ -45,6 +45,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 6
+      - name: Prasanna Vijayaraghavan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0002-6036-651X
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 7
     creators:
       - name: Brodbeck, Christian
         nameType: Personal
@@ -58,6 +68,9 @@ data:
         nameType: Personal
       - name: Lau, Ellen
         nameType: Personal
+      - name: Prasanna Vijayaraghavan
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
