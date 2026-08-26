@@ -24,27 +24,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Resnik, Philip
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
-      - name: Simon, Jonathan Z
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
-      - name: Lau, Ellen
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 6
       - name: Prasanna Vijayaraghavan
         givenName: ''
         familyName: ''
@@ -54,6 +33,27 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 4
+      - name: Resnik, Philip
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Simon, Jonathan Z
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Lau, Ellen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
         order: 7
     creators:
       - name: Brodbeck, Christian
@@ -62,15 +62,15 @@ data:
         nameType: Personal
       - name: Cruz Heredia, Aura AL
         nameType: Personal
+      - name: Prasanna Vijayaraghavan
+        nameType: Personal
+        nameIdentifiers: *ref_0
       - name: Resnik, Philip
         nameType: Personal
       - name: Simon, Jonathan Z
         nameType: Personal
       - name: Lau, Ellen
         nameType: Personal
-      - name: Prasanna Vijayaraghavan
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
