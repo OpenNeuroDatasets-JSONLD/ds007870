@@ -15,5 +15,8 @@
     },
     "trial_type": {
         "Description": "The type, category, or name of the event."
+    },
+    "stimulus": {
+        "Description": "The stimulus presented during the event."
     }
 }
